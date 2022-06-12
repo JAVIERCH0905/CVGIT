@@ -10,6 +10,6 @@ package cv_git;
  * @author JC
  */
 public class Recalde {
-    //Clonacon del proyecto grupal Recalde
-    //Prueba de funcionamiento 
+    //Clonacion del proyecto grupal Recalde
+ 
 }
