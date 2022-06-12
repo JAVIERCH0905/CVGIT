@@ -11,5 +11,7 @@ package cv_git;
  */
 public class Chancusig {
     // comentario de prueba Chancusig__ll
-    
+    public void ll(){
+        System.out.println("dsd");
+    }
 }
