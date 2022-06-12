@@ -10,6 +10,5 @@ package cv_git;
  * @author JC
  */
 public class Chancusig {
-    //prueba commit chancusig
     
 }
