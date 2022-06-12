@@ -10,5 +10,6 @@ package cv_git;
  * @author JC
  */
 public class Araujo {
+    //un salido a todos mi nombre es marco araujo este es un ejemplo de clonacion 
     
 }
