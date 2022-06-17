@@ -7,10 +7,8 @@ package cv_git;
 
 /**
  *
- * @author JC
+ * @author MARK
  */
-public class Curicho {
-    // PRUEBA DE COMENTARIO
-    //Se realiza un comentario para revertir
-    // Comentario agregado
+public class RecaldeAlison {
+    
 }
